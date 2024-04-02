@@ -1,0 +1,80 @@
+/* Header-Section */
+.header{
+    background-color: #101446;
+    padding: 10px 0px;
+}
+.logo img{
+    width: 100px;
+}
+ul{
+    text-align: right;
+    margin-bottom: 0;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 0 30px;
+    font-size: 20px;
+    line-height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+/* Banner-Section */
+.banner{
+    background-image: url(img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 260px 0;
+}
+.content h2{
+    color: #fff;
+}
+.content p{
+    color: #fff;
+}
+/* Service-Section */
+.service{
+    background-color: #bac1f3;
+}
+.member h6{
+    margin-top: 5px;
+}
+.member .team{
+    font-size: 14px;
+}
+/* About-Section */
+.about{
+    background-color: #c2d4ea;
+}
+/* Contact-Section */
+.contact{
+    background-color: #f5f5f5;
+}
+.form label{
+    font-weight: bold;
+}
+.form input[type="text"]{
+    width: 500px;
+    height: 30px;
+    padding: 0px 15px;
+}
+.form input[type="email"]{
+    width: 500px;
+    height: 30px;
+    padding: 0px 15px;
+}
+.form .btn{
+    padding: 10px 20px;
+    font-weight: bold;
+}
+/* Footer-Section */
+.footer{
+    background-color: #0062d3;
+}
+.footer p{
+    color: #fff;
+}
